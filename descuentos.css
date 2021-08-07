@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.4rem;
+  font-family: 'Inter', sans-serif;
+}
+header {
+  margin: 1.6rem 0;
+}
+header h1 {
+  padding: 8px 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+header p {
+  padding: 8px 0;
+  text-align: center;
+}
+section {
+  text-align: center;
+  margin: 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(112, 97, 102, 0.5);
+}
+section h2 {
+  padding: 16px 0;
+}
+form label {
+  display: block;
+  padding: 8px 0;
+}
+input {
+  display: block;
+  margin: 0 auto;
+  margin-top: 8px;
+  padding: 4px 8px;
+}
+button {
+  height: 3.2rem;
+  margin: 16px 0;
+  padding: 4px 8px;
+}
+#resultP {
+  padding-top: 16px;
+  padding-bottom: 24px;
+}
